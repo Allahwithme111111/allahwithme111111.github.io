@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://allahwithme111111.github.io/sitemap.xml
